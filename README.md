@@ -1,9 +1,10 @@
 # KoreAnesthesia2023
 KoreAnesthesia 2023 KJA Statistical Round Session
 
-## R, R Studio Installation
+## R, R Studio, G*Power Installation
 1. R project: [https://cloud.r-project.org/](https://cloud.r-project.org/)
 2. R Studio: [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
+3. G*Power: [https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower]
 
 ## Contents
 1. 2023 KoreAnesthesia KJA session plan.docx
